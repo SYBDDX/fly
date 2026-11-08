@@ -1,0 +1,22 @@
+# Forge / Gradle
+.minecraftforge/
+run/
+run-data/
+logs/
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+out/
+.vscode/
+
+# OS
+.DS_Store
